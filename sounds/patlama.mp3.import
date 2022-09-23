@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/patlama.mp3-7dbb611372933809606590c0b15d7f39.mp3str"
+
+[deps]
+
+source_file="res://sounds/patlama.mp3"
+dest_files=[ "res://.import/patlama.mp3-7dbb611372933809606590c0b15d7f39.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

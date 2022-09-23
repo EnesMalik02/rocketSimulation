@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/radyo.mp3-7947895c54d1ea1f9474474f14789b09.mp3str"
+
+[deps]
+
+source_file="res://music/radyo.mp3"
+dest_files=[ "res://.import/radyo.mp3-7947895c54d1ea1f9474474f14789b09.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
